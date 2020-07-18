@@ -1,0 +1,35 @@
+Carla Mardones
+Paula Mardones 
+Karen San Martín 
+Sebastian Sanhueza
+
+Descripción:
+¡Buena descripción de variables, tiren los análisis y gráficos de cada variable a este ítem!(des exploratorio al de descripcion)
+Si embargo, solo se basaron en la frecuencia de los datos, podrian complementar con gráficos de densidad para determinar el sesgo, los cuartiles, los máximos, mínimos, desviaciones, varianzas, la dispersión de las variables, la media, la mediana y los outliers(pueden poner boxplots, son muy útiles) analizar que pasa si la media es mayor o menor a la mediana y que significa esto, etc. 
+En general tienen muy buenas conclusiones y demuestran esfuerzo en ver los datos, además buscaron fuentes externas.
+
+
+Exploración:
+
+La correlación cuando es 1 significa que, si una variable sube, la otra también sube, pero cuando en negativa, significa que una sube y otra baja, por lo que no significa que este menos relacionada que una variable con correlación positiva, tengan eso en cuenta, ya que también podrían servir algunas negativas
+
+Como dedujeron esto? :
+“Un punto interesante que hay que tener en consideración es que la relación entre las horas por semana trabajadas de las personas que ganan sobre de 50k USD al año están más dispersos que los que ganan menos de 50k USD al año.” 
+
+Me gustaría que consideraran estudiar variables poco relacionadas y con correlación negativa (aplicar en 2. Baja relación), ya que al final una sube y la otra baja (ósea que igual están relacionadas, pero de forma inversa).
+
+¡No usen solo gráficos de frecuencias, también pueden hacer con puntos y así relacionarlos con la correlación! Se darán cuenta cómo se comportan dos variables juntas.
+
+
+Calidad:
+
+Muy buenas conclusiones en general podrían agregar el porcentaje de “?” que encuentran en cada variable para ver el impacto en caso de eliminarlos o reemplazarlos
+
+
+Limpieza, excelente todo, sin embargo, ¿¿¿qué sucederá con los “?”???
+No sé si es lo mejor dejarlos con ese valor, ya que podría arruinar una buena decisión a futuro, ojalá hagan algo con esos errores, ya sea reemplazarlos, eliminarlos, etc.
+Podrían además fijarse en como están distribuidos los datos, tal vez datos muy dispersos no aporten tanto, o datos en donde existan muchos de una sola característica
+
+
+Selección:
+¡Cuidado con el tema de la correlación negativa! Relationship igual tiene una cierta correlación con income y con age. Por ejemplo, podrían compararlas mas a fondo, ya que por ser negativa no significa que no aporte información
