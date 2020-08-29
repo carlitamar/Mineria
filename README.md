@@ -1,4 +1,4 @@
-# Mineria
+# Mineria de Datos <<>> Data Mining
 Tuvimos que analizar un conjunto de datos de una población a través de diversas formas como: 
 - calidad de variables (ruido, datos erróneos, outliers, perdidos, incompletos, duplicados)
 - tipos de clusters (k-means, DBSCAN, jerárquico, fuzzy)
